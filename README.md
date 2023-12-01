@@ -1,3 +1,3 @@
-# football
+# Football
 
-Analyzing football data from kaggle. Learning Project
+Analyzing football data from kaggle. Learning Project.
